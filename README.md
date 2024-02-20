@@ -14,11 +14,11 @@ Place your llm in the models folder. The folder should look like this for mistra
 
 -localchat
 
-\--->mlxfiles
+\---->mlxfiles
 
-\--->models
+\---->models
 
-\\\\\--->Mistral-7B-Instruct-v0.2
+\\\\\\\\\--->Mistral-7B-Instruct-v0.2
 
 \\\\\\\\\--->config.json
 
@@ -32,7 +32,7 @@ requirements.txt
 
 ----------
 
-Using the terminal,
+Using the terminal:
 
 >> cd localchat
 
