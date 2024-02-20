@@ -18,13 +18,13 @@ Place your llm in the models folder. The folder should look like this for mistra
 
 \---->models
 
-\\\\\\\\\--->Mistral-7B-Instruct-v0.2
+\\\\--->Mistral-7B-Instruct-v0.2
 
-\\\\\\\\\--->config.json
+\\\\\\\\\\--->config.json
 
-\\\\\\\\\--->generation_config.json
+\\\\\\\\\\--->generation_config.json
 
-\\\\\\\\\---> etc...
+\\\\\\\\\\---> etc...
 
 codechat.py
 
