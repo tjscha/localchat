@@ -1,4 +1,4 @@
-This is a simple command line chat using MLX to generate and display text from a local model.
+This is a simple command line chat using MLX, mlx_lm to generate and display text from a local model.
 
 Use HuggingFace.co to download a model. This implementation makes use of Safetensors, so be sure the model has .safetensors included.
 
@@ -33,6 +33,8 @@ requirements.txt
 ----------
 
 Using the terminal:
+
+>>pip install mlx
 
 >> cd localchat
 
